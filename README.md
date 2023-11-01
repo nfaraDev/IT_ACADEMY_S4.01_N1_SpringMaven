@@ -1,6 +1,6 @@
 # Spring-Maven
 
-****SPRING BOOT ************************************************************************************************************************************************
+****SPRING BOOT **********************************************************************************************
 Es un marco de trabajo de desarrollo de aplicaciones Java que simplifica y agiliza el proceso de creación de aplicaciones basadas en Spring. Proporciona una 
 configuración predeterminada inteligente, integración con Spring Framework y herramientas para la gestión de dependencias, lo que permite a los desarrolladores
 centrarse en el desarrollo de la lógica de la aplicación sin tener que preocuparse por la configuración y la infraestructura subyacente
@@ -16,10 +16,8 @@ todas las características y beneficios de Spring, como la inversión de control
 a través de su herramienta de gestión de dependencias incorporada.
  -Monitoreo y administración: Spring Boot ofrece características integradas para el monitoreo y la administración de aplicaciones, como el inicio rápido, el ajuste
 de propiedades en tiempo de ejecución y la exposición de métricas y puntos de enlace de administración.
-************************************************************************************************************************************************************ 
-
-- Ejercicio Spring y Maven
-- 
+*****************************************************************************************************************************************
+  
 Este ejercicio es un primer contacto con Spring y Maven.
 
 Accede en la página ->https://start.spring.io/, y genera un proyecto Spring boot con las siguientes características:
@@ -86,6 +84,5 @@ Para utilizar Spring Boot, puedes seguir los siguientes pasos:
  5-Desarrollo de la aplicación: Una vez que hayas configurado tu proyecto de Spring Boot, puedes comenzar a desarrollar tu aplicación. Puedes crear controladores,
  servicios, repositorios y otros componentes de Spring para implementar la lógica de negocio de tu aplicación. Puedes utilizar las anotaciones de Spring, 
  como @Controller, @Service, @Repository, para marcar tus componentes y permitir que Spring los gestione automáticamente.
- 6-Ejecución y pruebas: Para ejecutar tu aplicación de Spring Boot, puedes ejecutar el método main en la clase principal. Esto iniciará el servidor incorporado de
- Spring Boot y desplegará tu aplicación en él. Puedes acceder a tu aplicación a través de la URL proporcionada por el servidor. También puedes realizar pruebas
- unitarias y de integración en tu aplicación utilizando herramientas como JUnit y Mockito.
+ 6-Ejecución y pruebas: Para ejecutar tu aplicación de Spring Boot, puedes ejecutar el método main en la clase principal. Esto iniciará el servidor incorporado deSpring Boot y desplegará tu aplicación en él. Puedes acceder a tu aplicación a través de la URL proporcionada por el servidor. 
+ También puedes realizar pruebas unitarias y de integración en tu aplicación utilizando herramientas como JUnit y Mockito.
